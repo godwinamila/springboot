@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: hello
-        image: spring-hello:v1
+        image: springhello:v1
         ports:
         - containerPort: 8080
 
